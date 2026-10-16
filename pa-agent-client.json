@@ -1,7 +1,7 @@
 {
   "client_id": "https://c747903646.github.io/pa-agent-oauth/pa-agent-client.json",
   "client_name": "PA Agent Binance MCP OAuth Test",
-  "client_uri": "https://c747903646.github.io/pa-agent-oauth/",
+  "client_uri": "https://c747903646.github.io/c747903646/pa-agent-oauth/",
   "application_type": "native",
   "grant_types": [
     "authorization_code"
